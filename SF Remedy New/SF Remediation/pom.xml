@@ -2,8 +2,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>cp4admin.new_decsion_salesforce.salesforce_remediation</groupId>
-        <artifactId>salesforceRemediation</artifactId>
+        <groupId>cp4admin.new_decsion_salesforce.sf_remedy_new</groupId>
+        <artifactId>SFRemedyNew</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
